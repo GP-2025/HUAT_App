@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "login_Welcome":"Welcome!",
+  "login_Email": "Email",
+  "login_Login": "Login" ,
+  "login_Password":"Password" ,
+  "login_Forgot_password": "Forgot password?"
+}
