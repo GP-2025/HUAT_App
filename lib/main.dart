@@ -16,7 +16,7 @@ void main() {
     ],
     supportedLocales: S.delegate.supportedLocales, // Supported locales
     locale: Locale('en'),
-      home: LoginPage()  ,
+      home: MainScreen()  ,
   ));
 }
 

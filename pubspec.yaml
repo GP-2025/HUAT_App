@@ -66,6 +66,8 @@ dependencies:
   flutter_timezone: ^4.0.0
   awesome_notifications: ^0.10.0
   intl_utils: ^2.8.7
+  websafe_svg: ^3.0.1+8
+  get: ^4.6.6
 
 
 
@@ -96,7 +98,7 @@ flutter:
   assets:
     - assets/images/
     - assets/fonts/
-    - assets/icons/
+    - assets/Icons/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
