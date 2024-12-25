@@ -27,6 +27,17 @@ class MessageLookup extends MessageLookupByLibrary {
             MessageLookupByLibrary.simpleMessage("Forgot password?"),
         "login_Login": MessageLookupByLibrary.simpleMessage("Login"),
         "login_Password": MessageLookupByLibrary.simpleMessage("Password"),
-        "login_Welcome": MessageLookupByLibrary.simpleMessage("Welcome!")
+        "login_Welcome": MessageLookupByLibrary.simpleMessage("Welcome!"),
+        "sideMenu_Alert_Content":
+            MessageLookupByLibrary.simpleMessage("try to have a dialog"),
+        "sideMenu_Alert_Hider": MessageLookupByLibrary.simpleMessage("Alert"),
+        "sideMenu_Button_Compose":
+            MessageLookupByLibrary.simpleMessage("Compose"),
+        "sideMenu_Drafts": MessageLookupByLibrary.simpleMessage("Drafts"),
+        "sideMenu_Index": MessageLookupByLibrary.simpleMessage("Inbox"),
+        "sideMenu_Logout": MessageLookupByLibrary.simpleMessage("LogOut"),
+        "sideMenu_Sent": MessageLookupByLibrary.simpleMessage("Sent"),
+        "sideMenu_Settings": MessageLookupByLibrary.simpleMessage("profile"),
+        "sideMenu_Trash": MessageLookupByLibrary.simpleMessage("Trash")
       };
 }

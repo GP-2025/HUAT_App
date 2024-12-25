@@ -4,5 +4,16 @@
   "login_Email": "Email",
   "login_Login": "Login" ,
   "login_Password":"Password" ,
-  "login_Forgot_password": "Forgot password?"
+  "login_Forgot_password": "Forgot password?",
+
+  "sideMenu_Trash" : "Trash" ,
+  "sideMenu_Sent" : "Sent" ,
+  "sideMenu_Index" : "Inbox" ,
+  "sideMenu_Settings" : "profile" ,
+  "sideMenu_Drafts" : "Drafts",
+  "sideMenu_Alert_Hider" : "Alert",
+  "sideMenu_Alert_Content" : "try to have a dialog",
+  "sideMenu_Button_Compose" : "Compose",
+  "sideMenu_Logout" : "LogOut"
+
 }
