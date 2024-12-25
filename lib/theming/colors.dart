@@ -17,4 +17,8 @@ class colorManager {
   static const kGrayColor = Color(0xFF8793B2);
   static const kTitleTextColor = Color(0xFF30384D);
   static const kTextColor = Color(0xFF4D5875);
+  static const huatInbox = Color(0xFF5383ED),
+  huatSent = Color(0xFFBF8CEF),
+  huatDraft = Color(0xFF47B570),
+  huatTrash = Color(0xFFE57B7B);
 }

@@ -99,6 +99,96 @@ class S {
       args: [],
     );
   }
+
+  /// `Trash`
+  String get sideMenu_Trash {
+    return Intl.message(
+      'Trash',
+      name: 'sideMenu_Trash',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sent`
+  String get sideMenu_Sent {
+    return Intl.message(
+      'Sent',
+      name: 'sideMenu_Sent',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Inbox`
+  String get sideMenu_Index {
+    return Intl.message(
+      'Inbox',
+      name: 'sideMenu_Index',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `profile`
+  String get sideMenu_Settings {
+    return Intl.message(
+      'profile',
+      name: 'sideMenu_Settings',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Drafts`
+  String get sideMenu_Drafts {
+    return Intl.message(
+      'Drafts',
+      name: 'sideMenu_Drafts',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Alert`
+  String get sideMenu_Alert_Hider {
+    return Intl.message(
+      'Alert',
+      name: 'sideMenu_Alert_Hider',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `try to have a dialog`
+  String get sideMenu_Alert_Content {
+    return Intl.message(
+      'try to have a dialog',
+      name: 'sideMenu_Alert_Content',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Compose`
+  String get sideMenu_Button_Compose {
+    return Intl.message(
+      'Compose',
+      name: 'sideMenu_Button_Compose',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `LogOut`
+  String get sideMenu_Logout {
+    return Intl.message(
+      'LogOut',
+      name: 'sideMenu_Logout',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {
