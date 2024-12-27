@@ -7,7 +7,7 @@ import 'package:msccolone/resposive.dart';
 
 
 
-import 'widgets/side_menu.dart';
+import '../../side_menu/ui/side_menu.dart';
 
 
 

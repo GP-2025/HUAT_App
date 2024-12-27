@@ -5,13 +5,13 @@ import 'package:msccolone/features/extensions/extensions.dart';
 import 'package:msccolone/features/login/ui/login_screen.dart';
 
 import 'package:websafe_svg/websafe_svg.dart';
-import '../../../../generated/l10n.dart';
-import '../../../../resposive.dart';
-import '../../../../theming/colors.dart';
-import '../../../../theming/local_variables.dart';
+import '../../../generated/l10n.dart';
+import '../../../resposive.dart';
+import '../../../theming/colors.dart';
+import '../../../theming/local_variables.dart';
 
-import 'logout_widget.dart';
-import 'side_menu_item.dart';
+import 'widgets/logout_widget.dart';
+import 'widgets/side_menu_item.dart';
 
 class SideMenu extends StatelessWidget {
   const SideMenu(
