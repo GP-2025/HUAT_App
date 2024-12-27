@@ -68,6 +68,7 @@ dependencies:
   intl_utils: ^2.8.7
   websafe_svg: ^3.0.1+8
   get: ^4.6.6
+  icons_launcher: ^3.0.0
 
 
 
